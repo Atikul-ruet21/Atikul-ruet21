@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Atikul-ruet21
+- 👋 Hi, I’m Atikul
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning C,C++
-- 💞️ I’m looking to collaborate on Data Structure
+- 💞️ I’m looking to collaborate on OOP,Data Structure, Algorithm
 - 📫 How to reach me NEVER 
 
 <!---
