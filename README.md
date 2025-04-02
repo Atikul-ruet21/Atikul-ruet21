@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atikul
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C,C++
-- 💞️ I’m looking to collaborate on OOP,Data Structure, Algorithm
+- 🌱 I’m currently learning C,C++, 
+- 💞️ I’m looking to collaborate on OOP,Data Structure, Algorithm, ML
 - 📫 How to reach me NEVER 
 
 <!---
